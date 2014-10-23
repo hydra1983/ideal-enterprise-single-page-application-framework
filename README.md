@@ -15,6 +15,8 @@
 * BDD
 * multi devices
 * server side simulation
+* monitor
+* logging
 * sync?
 * UI
   * radio/group
