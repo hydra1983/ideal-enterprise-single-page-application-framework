@@ -33,3 +33,5 @@
   * vertical
   * tile
   * ...
+* simple app
+* modular app
