@@ -33,5 +33,6 @@
   * vertical
   * tile
   * ...
+* feature switch
 * simple app
 * modular app
