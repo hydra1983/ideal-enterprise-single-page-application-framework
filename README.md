@@ -18,6 +18,7 @@
 * monitor
 * logging
 * sync?
+* data binding
 * UI
   * radio/group
   * check box/group
@@ -36,3 +37,4 @@
 * feature switch
 * simple app
 * modular app
+* web server performance
